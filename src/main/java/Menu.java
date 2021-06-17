@@ -25,7 +25,9 @@ public class Menu {
     private String ingredientes;
     private String alergias;
 
+
 }
+
 
 
 
