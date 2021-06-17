@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc39bc13-2a92-4d89-a6d3-926ce160fff9" name="Default Changelist" comment="">
-
-      <change beforePath="$PROJECT_DIR$/src/main/java/Menu.java" beforeDir="false" />
- develop
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Restaurante.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Usuario.java" beforeDir="false" />
     </list>
@@ -37,7 +36,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-develop
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

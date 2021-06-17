@@ -10,4 +10,3 @@ public class Main {
         usuario = new Usuario("Adrian", "74642478C", "g", "d");
 
     }}
-

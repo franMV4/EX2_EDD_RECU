@@ -1,6 +1,5 @@
 public class Menu {
 
-
     public String getIngredientes() {
         return ingredientes;
     }
@@ -26,6 +25,3 @@ public class Menu {
     private String alergias;
 
 }
-
-}
-
